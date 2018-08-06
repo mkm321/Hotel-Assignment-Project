@@ -1,0 +1,11 @@
+C:\Users\mmehndiratta\source\repos\HotelAssignment\HotelAssignment\bin\Debug\netcoreapp1.1\HotelAssignment.deps.json
+C:\Users\mmehndiratta\source\repos\HotelAssignment\HotelAssignment\bin\Debug\netcoreapp1.1\HotelAssignment.runtimeconfig.json
+C:\Users\mmehndiratta\source\repos\HotelAssignment\HotelAssignment\bin\Debug\netcoreapp1.1\HotelAssignment.runtimeconfig.dev.json
+C:\Users\mmehndiratta\source\repos\HotelAssignment\HotelAssignment\bin\Debug\netcoreapp1.1\HotelAssignment.dll
+C:\Users\mmehndiratta\source\repos\HotelAssignment\HotelAssignment\obj\Debug\netcoreapp1.1\HotelAssignment.csprojResolveAssemblyReference.cache
+C:\Users\mmehndiratta\source\repos\HotelAssignment\HotelAssignment\obj\Debug\netcoreapp1.1\HotelAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\source\repos\HotelAssignment\HotelAssignment\obj\Debug\netcoreapp1.1\HotelAssignment.AssemblyInfo.cs
+C:\Users\mmehndiratta\source\repos\HotelAssignment\HotelAssignment\bin\Debug\netcoreapp1.1\HotelAssignment.pdb
+C:\Users\mmehndiratta\source\repos\HotelAssignment\HotelAssignment\obj\Debug\netcoreapp1.1\HotelAssignment.dll
+C:\Users\mmehndiratta\source\repos\HotelAssignment\HotelAssignment\obj\Debug\netcoreapp1.1\HotelAssignment.pdb
+C:\Users\mmehndiratta\source\repos\HotelAssignment\HotelAssignment\bin\Debug\netcoreapp1.1\Microsoft.AnalysisServices.AdomdClient.dll
